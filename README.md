@@ -80,6 +80,19 @@ The project follows a structured ML workflow:
 
 ---
 
+## 📊 Visual Results
+
+### Confusion Matrix
+![Confusion Matrix](images/confusion_matrix.png)
+
+### Feature Importance
+![Feature Importance](images/feature_importances.png)
+
+### Top 10 Predictors
+![Top 10 Predictors](images/top_10_dropout_predictors.png)
+
+---
+
 ## 📊 Key Highlights
 
 * Built a **robust multi-class classification system**
@@ -105,18 +118,6 @@ The project follows a structured ML workflow:
 - SMOTE improves recall for minority classes (Dropout)  
 - Tree-based models capture non-linear relationships effectively
 
----
-
-## 📊 Visual Results
-
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
-### Feature Importance
-![Feature Importance](images/feature_importances.png)
-
-### Top 10 Predictors
-![Top 10 Predictors](images/top_10_dropout_predictors.png)
 ---
 
 ## 🚀 Getting Started

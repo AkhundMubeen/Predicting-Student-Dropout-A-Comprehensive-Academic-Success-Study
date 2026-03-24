@@ -125,8 +125,8 @@ The project follows a structured ML workflow:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/student-dropout-ml.git
-cd student-dropout-ml
+git clone https://github.com/your-username/Student-Success-Analytics.git
+cd Student-Success-Analytics
 ```
 
 ### 2. Install dependencies
